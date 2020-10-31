@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.3
+Name: boga
+Formal-Name: Boga
+App-ID: com.example.boga
+Version: 0.0.1
+Home-page: https://example.com/boga
+Author: Jose Prado
+Author-email: jose@example.com
+Summary: My first application
